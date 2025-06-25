@@ -1,0 +1,10 @@
+{
+  "linkedin": {
+    "api_key": "",
+    "base_url": "https://www.linkedin.com"
+  },
+  "scraper": {
+    "delay_seconds": 1,
+    "max_retries": 3
+  }
+}
